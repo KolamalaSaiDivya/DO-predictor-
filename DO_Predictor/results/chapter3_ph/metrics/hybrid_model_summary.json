@@ -1,0 +1,23 @@
+{
+  "algorithm": "y_hat_hybrid = y_hat_ARIMA + e_hat_LSTM",
+  "arima_summary": {
+    "arima_order": [
+      1,
+      1,
+      0
+    ],
+    "AIC": -12216.019847893003,
+    "BIC": -12204.905946748977,
+    "train_sequences": 1894
+  },
+  "training_time_seconds": 278.13196569999855,
+  "prediction_time_seconds": 225.30779449999682,
+  "metrics": {
+    "MAE": 0.042449348284545836,
+    "MSE": 0.002690238694098918,
+    "RMSE": 0.051867510968803175,
+    "MAPE": 0.5326300253047269,
+    "R2": -4.625243649535696,
+    "n": 391
+  }
+}

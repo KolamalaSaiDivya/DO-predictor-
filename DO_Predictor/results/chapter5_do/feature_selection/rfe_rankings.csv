@@ -1,0 +1,153 @@
+feature_name,ranking,selected
+DO (%Saturation),1,True
+Temperature,1,True
+pH,1,True
+Chlorophyll_pct_change,1,True
+DO (%Saturation)_rolling_mean_3,1,True
+DO (%Saturation)_rolling_min_3,1,True
+Temperature_rolling_min_5,1,True
+DO (%Saturation)_lag_1,1,True
+pH_pct_change,1,True
+DO (%Saturation)_rolling_median_3,1,True
+Average Water Direction,2,False
+pH_rolling_min_3,2,False
+Average Water Speed_lag_3,3,False
+Specific Conductance,3,False
+Average Water Speed_rolling_std_5,3,False
+Chlorophyll,3,False
+DO (%Saturation)_first_difference,3,False
+Temperature_lag_3,3,False
+pH_rolling_std_5,3,False
+pH_rolling_std_3,3,False
+Specific Conductance_lag_1,3,False
+Turbidity_lag_3,3,False
+DO (%Saturation)_lag_2,4,False
+Temperature_rolling_std_5,4,False
+Temperature_rolling_std_3,4,False
+Average Water Speed_rolling_median_3,4,False
+Average Water Direction_rolling_mean_3,4,False
+Average Water Direction_rolling_max_5,4,False
+DO (%Saturation)_rolling_max_3,4,False
+Turbidity_rolling_std_5,4,False
+Turbidity_rolling_min_3,4,False
+Temperature_rolling_min_3,4,False
+Average Water Direction_lag_1,5,False
+Chlorophyll_rolling_std_3,5,False
+pH_lag_3,5,False
+pH_lag_1,5,False
+DO (%Saturation)_rolling_max_5,5,False
+Salinity_rolling_max_5,5,False
+Average Water Speed_first_difference,5,False
+Average Water Speed_rolling_std_3,5,False
+Average Water Speed_rolling_mean_5,5,False
+Average Water Direction_lag_3,5,False
+Temperature_pct_change,6,False
+Average Water Direction_rolling_max_3,6,False
+Chlorophyll_rolling_min_5,6,False
+pH_rolling_mean_3,6,False
+Specific Conductance_lag_2,6,False
+Chlorophyll_rolling_std_5,6,False
+Turbidity_lag_2,6,False
+Chlorophyll_first_difference,6,False
+Chlorophyll_rolling_mean_3,6,False
+Turbidity_rolling_median_5,6,False
+Average Water Speed_lag_2,7,False
+Average Water Speed_rolling_min_3,7,False
+Average Water Direction_rolling_std_5,7,False
+Salinity_rolling_std_3,7,False
+Temperature_rolling_mean_3,7,False
+Turbidity_lag_1,7,False
+Turbidity_first_difference,7,False
+Average Water Direction_first_difference,7,False
+Temperature_lag_2,7,False
+Salinity_pct_change,7,False
+DO (%Saturation)_rolling_std_3,8,False
+DO (%Saturation)_lag_3,8,False
+Turbidity_rolling_std_3,8,False
+Salinity_lag_1,8,False
+pH_rolling_median_3,8,False
+Temperature_rolling_mean_5,8,False
+Average Water Direction_rolling_mean_5,8,False
+Chlorophyll_lag_3,8,False
+pH_rolling_max_3,8,False
+pH_first_difference,8,False
+Average Water Speed_pct_change,9,False
+Turbidity,9,False
+Salinity_rolling_std_5,9,False
+Average Water Direction_lag_2,9,False
+Chlorophyll_lag_1,9,False
+Average Water Direction_rolling_min_3,9,False
+Average Water Direction_rolling_std_3,9,False
+Chlorophyll_lag_2,9,False
+Average Water Speed_rolling_median_5,9,False
+Turbidity_rolling_median_3,9,False
+Chlorophyll_rolling_max_5,10,False
+Average Water Speed_rolling_max_5,10,False
+DO (%Saturation)_pct_change,10,False
+pH_lag_2,10,False
+Turbidity_rolling_min_5,10,False
+Temperature_rolling_max_5,10,False
+Average Water Speed_rolling_max_3,10,False
+Average Water Speed,10,False
+pH_rolling_max_5,10,False
+Average Water Speed_rolling_mean_3,10,False
+Average Water Speed_rolling_min_5,11,False
+Average Water Direction_rolling_median_3,11,False
+Specific Conductance_lag_3,11,False
+Average Water Direction_pct_change,11,False
+DO (%Saturation)_rolling_std_5,11,False
+Temperature_first_difference,11,False
+Salinity_lag_2,11,False
+DO (%Saturation)_rolling_mean_5,11,False
+Salinity,11,False
+Specific Conductance_rolling_max_3,11,False
+Turbidity_rolling_mean_5,12,False
+Turbidity_pct_change,12,False
+pH_rolling_min_5,12,False
+Specific Conductance_pct_change,12,False
+Turbidity_rolling_max_5,12,False
+Average Water Speed_lag_1,12,False
+Specific Conductance_rolling_std_3,12,False
+Chlorophyll_rolling_median_3,12,False
+Average Water Direction_rolling_min_5,12,False
+Average Water Direction_rolling_median_5,12,False
+Turbidity_rolling_mean_3,13,False
+Salinity_rolling_median_3,13,False
+Temperature_rolling_median_5,13,False
+pH_rolling_mean_5,13,False
+Salinity_lag_3,13,False
+Salinity_rolling_mean_5,13,False
+Temperature_rolling_median_3,13,False
+DO (%Saturation)_rolling_median_5,13,False
+Chlorophyll_rolling_min_3,13,False
+Temperature_lag_1,13,False
+Chlorophyll_rolling_max_3,14,False
+Chlorophyll_rolling_mean_5,14,False
+Chlorophyll_rolling_median_5,14,False
+Temperature_rolling_max_3,14,False
+DO (%Saturation)_rolling_min_5,14,False
+Salinity_first_difference,14,False
+Specific Conductance_rolling_std_5,14,False
+Turbidity_rolling_max_3,14,False
+Specific Conductance_rolling_median_3,14,False
+Salinity_rolling_max_3,14,False
+Specific Conductance_first_difference,15,False
+Specific Conductance_rolling_max_5,15,False
+pH_rolling_median_5,15,False
+Specific Conductance_rolling_min_5,15,False
+Specific Conductance_rolling_min_3,15,False
+Specific Conductance_rolling_mean_3,15,False
+Salinity_rolling_min_5,15,False
+Salinity_rolling_median_5,15,False
+Salinity_rolling_min_3,15,False
+Salinity_rolling_mean_3,15,False
+Salinity [quality],16,False
+Specific Conductance [quality],16,False
+Turbidity [quality],16,False
+Dissolved Oxygen [quality],16,False
+Chlorophyll [quality],16,False
+Temperature [quality],16,False
+pH [quality],16,False
+Dissolved Oxygen (%Saturation) [quality],16,False
+Specific Conductance_rolling_mean_5,16,False
+Specific Conductance_rolling_median_5,16,False

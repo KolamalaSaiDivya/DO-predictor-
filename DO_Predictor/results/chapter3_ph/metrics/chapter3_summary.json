@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "chapter": "chapter3_ph",
+  "fast_mode": false,
+  "dataset_rows": 21515,
+  "dataset_rows_raw": 10000,
+  "train_size": 1916,
+  "validation_size": 411,
+  "test_size": 411,
+  "best_model": "persistence",
+  "successful_models": [
+    "persistence",
+    "linear_regression",
+    "random_forest",
+    "svr",
+    "arima",
+    "lstm",
+    "gru",
+    "transformer",
+    "arima_lstm_hybrid"
+  ],
+  "failed_models": [],
+  "training_period": "2023-09-10 14:30:00 -> 2023-12-23 18:40:00",
+  "validation_period": "2023-12-23 18:50:00 -> 2023-12-27 03:30:00",
+  "test_period": "2023-12-27 03:40:00 -> 2024-01-01 00:10:00"
+}

@@ -1,0 +1,6 @@
+{
+  "median_interval_minutes": 10.0,
+  "target_horizon_minutes": 10.0,
+  "horizon_steps": 1,
+  "resample_freq": "10min"
+}

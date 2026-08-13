@@ -1,0 +1,4 @@
+DO_Predictor Research Results Summary
+========================================
+Chapter 3 status: success
+Best pH model (by RMSE): persistence

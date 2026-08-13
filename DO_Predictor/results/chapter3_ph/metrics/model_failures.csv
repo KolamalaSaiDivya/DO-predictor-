@@ -1,0 +1,5 @@
+Model,error
+arima,Prediction must have `end` after `start`.
+lstm,"Found array with 0 sample(s) (shape=(0, 324)) while a minimum of 1 is required by StandardScaler."
+gru,"Found array with 0 sample(s) (shape=(0, 324)) while a minimum of 1 is required by StandardScaler."
+transformer,"Found array with 0 sample(s) (shape=(0, 324)) while a minimum of 1 is required by StandardScaler."

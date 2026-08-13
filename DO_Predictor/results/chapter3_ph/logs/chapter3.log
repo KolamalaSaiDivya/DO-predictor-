@@ -1,0 +1,59 @@
+2026-08-13 10:41:13,363 | ERROR    | experiments.chapter3_ph | Chapter 3 dataset not found at C:\Users\Divya\Downloads\DO_Predictor\DO_Predictor\data\raw\chapter3_ph_dataset.csv. Place chapter3_ph_dataset.csv at this path before running Chapter 3.
+2026-08-13 11:38:50,548 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: persistence
+2026-08-13 11:38:53,978 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: linear_regression
+2026-08-13 11:38:57,126 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: random_forest
+2026-08-13 11:39:02,567 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: svr
+2026-08-13 11:39:05,546 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: arima
+2026-08-13 11:39:21,776 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: lstm
+2026-08-13 11:39:22,589 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: gru
+2026-08-13 11:39:23,256 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: transformer
+2026-08-13 11:39:23,822 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: arima_lstm_hybrid
+2026-08-13 11:39:36,820 | INFO     | experiments.chapter3_ph | Chapter 3 complete. Successful models: ['persistence', 'linear_regression', 'random_forest', 'svr', 'arima']
+2026-08-13 11:39:36,859 | INFO     | experiments.chapter3_ph | Failed models: ['lstm', 'gru', 'transformer', 'arima_lstm_hybrid']
+2026-08-13 13:05:52,360 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: persistence
+2026-08-13 13:05:52,735 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: linear_regression
+2026-08-13 13:05:52,801 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: random_forest
+2026-08-13 13:05:53,087 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: arima
+2026-08-13 13:05:53,246 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: arima_lstm_hybrid
+2026-08-13 13:05:57,064 | INFO     | experiments.chapter3_ph | Chapter 3 complete. Successful models: ['persistence']
+2026-08-13 13:05:57,064 | INFO     | experiments.chapter3_ph | Failed models: ['linear_regression', 'random_forest', 'arima', 'arima_lstm_hybrid']
+2026-08-13 13:08:28,309 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: persistence
+2026-08-13 13:08:28,654 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: linear_regression
+2026-08-13 13:08:28,691 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: random_forest
+2026-08-13 13:08:28,971 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: arima
+2026-08-13 13:08:29,122 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: arima_lstm_hybrid
+2026-08-13 13:08:32,912 | INFO     | experiments.chapter3_ph | Chapter 3 complete. Successful models: ['persistence']
+2026-08-13 13:08:32,912 | INFO     | experiments.chapter3_ph | Failed models: ['linear_regression', 'random_forest', 'arima', 'arima_lstm_hybrid']
+2026-08-13 13:18:47,602 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: persistence
+2026-08-13 13:18:48,070 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: linear_regression
+2026-08-13 13:18:48,540 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: random_forest
+2026-08-13 13:18:49,420 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: svr
+2026-08-13 13:18:49,923 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: arima
+2026-08-13 13:18:50,125 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: lstm
+2026-08-13 13:18:50,207 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: gru
+2026-08-13 13:18:50,226 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: transformer
+2026-08-13 13:18:50,245 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: arima_lstm_hybrid
+2026-08-13 13:18:57,395 | INFO     | experiments.chapter3_ph | Chapter 3 complete. Successful models: ['persistence', 'linear_regression', 'random_forest', 'svr', 'arima_lstm_hybrid']
+2026-08-13 13:18:57,395 | INFO     | experiments.chapter3_ph | Failed models: ['arima', 'lstm', 'gru', 'transformer']
+2026-08-13 16:31:01,639 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: persistence
+2026-08-13 16:31:02,655 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: linear_regression
+2026-08-13 16:31:03,493 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: random_forest
+2026-08-13 16:31:04,861 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: svr
+2026-08-13 16:31:05,769 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: arima
+2026-08-13 16:31:07,295 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: lstm
+2026-08-13 16:31:07,452 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: gru
+2026-08-13 16:31:07,491 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: transformer
+2026-08-13 16:31:07,526 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: arima_lstm_hybrid
+2026-08-13 16:31:21,579 | INFO     | experiments.chapter3_ph | Chapter 3 complete. Successful models: ['persistence', 'linear_regression', 'random_forest', 'svr', 'arima_lstm_hybrid']
+2026-08-13 16:31:21,579 | INFO     | experiments.chapter3_ph | Failed models: ['arima', 'lstm', 'gru', 'transformer']
+2026-08-13 18:03:51,424 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: persistence
+2026-08-13 18:03:54,346 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: linear_regression
+2026-08-13 18:03:57,473 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: random_forest
+2026-08-13 18:04:16,687 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: svr
+2026-08-13 18:04:27,333 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: arima
+2026-08-13 18:04:31,190 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: lstm
+2026-08-13 18:05:26,785 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: gru
+2026-08-13 18:06:51,198 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: transformer
+2026-08-13 18:08:06,580 | INFO     | experiments.chapter3_ph | Running Chapter 3 model: arima_lstm_hybrid
+2026-08-13 18:16:44,318 | INFO     | experiments.chapter3_ph | Chapter 3 complete. Successful models: ['persistence', 'linear_regression', 'random_forest', 'svr', 'arima', 'lstm', 'gru', 'transformer', 'arima_lstm_hybrid']
+2026-08-13 18:16:44,319 | INFO     | experiments.chapter3_ph | Failed models: []

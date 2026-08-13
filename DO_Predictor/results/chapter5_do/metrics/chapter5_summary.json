@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "chapter": "chapter5_do",
+  "fast_mode": false,
+  "dataset_rows": 1000,
+  "train_size": 695,
+  "validation_size": 149,
+  "test_size": 149,
+  "horizon": {
+    "median_interval_minutes": 10.0,
+    "target_horizon_minutes": 10.0,
+    "horizon_steps": 1,
+    "resample_freq": "10min"
+  },
+  "candidate_feature_count": 152,
+  "rfe_feature_count": 10,
+  "cfs_feature_count": 8,
+  "rfe_cfs_feature_count": 8,
+  "evaluated_feature_sets": [
+    "all_features",
+    "rfe_cfs"
+  ],
+  "final_selected_features": [
+    "DO (%Saturation)",
+    "DO (%Saturation)_lag_1",
+    "pH",
+    "DO (%Saturation)_rolling_median_3",
+    "Temperature",
+    "DO (%Saturation)_rolling_mean_3",
+    "DO (%Saturation)_rolling_min_3",
+    "Chlorophyll_pct_change"
+  ],
+  "final_proposed_model": "random_forest",
+  "final_metrics": {
+    "MAE": 0.23288942573710775,
+    "MSE": 0.0962846191772444,
+    "RMSE": 0.31029762998973165,
+    "MAPE": 3.3965917296245105,
+    "R2": 0.7305961899921242,
+    "n": 149
+  },
+  "best_all_features": {
+    "Model": "persistence",
+    "RMSE": 0.30471606323695977,
+    "MAE": 0.2209664429530201,
+    "R2": 0.7402009766962192
+  },
+  "best_rfe": null,
+  "best_cfs": null,
+  "best_rfe_cfs": {
+    "Model": "persistence",
+    "RMSE": 0.30471606323695977,
+    "MAE": 0.2209664429530201,
+    "R2": 0.7402009766962192
+  },
+  "successful_models": [
+    {
+      "Feature_Set": "all_features",
+      "Model": "persistence"
+    },
+    {
+      "Feature_Set": "all_features",
+      "Model": "linear_regression"
+    },
+    {
+      "Feature_Set": "all_features",
+      "Model": "random_forest"
+    },
+    {
+      "Feature_Set": "rfe_cfs",
+      "Model": "persistence"
+    },
+    {
+      "Feature_Set": "rfe_cfs",
+      "Model": "linear_regression"
+    },
+    {
+      "Feature_Set": "rfe_cfs",
+      "Model": "random_forest"
+    }
+  ],
+  "failed_models": [],
+  "training_period": "2024-06-20 11:30:00 -> 2024-06-25 07:10:00",
+  "validation_period": "2024-06-25 07:20:00 -> 2024-06-26 08:00:00",
+  "test_period": "2024-06-26 08:10:00 -> 2024-06-27 08:50:00"
+}

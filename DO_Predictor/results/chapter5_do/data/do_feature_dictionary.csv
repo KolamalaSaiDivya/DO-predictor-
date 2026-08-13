@@ -1,0 +1,307 @@
+feature_name,source_variable,feature_type,lag_window,description
+Average Water Speed_lag_1,Average Water Speed,lag,1,Causal lag 1 of Average Water Speed
+Average Water Speed_lag_2,Average Water Speed,lag,2,Causal lag 2 of Average Water Speed
+Average Water Speed_lag_3,Average Water Speed,lag,3,Causal lag 3 of Average Water Speed
+Average Water Speed_lag_5,Average Water Speed,lag,5,Causal lag 5 of Average Water Speed
+Average Water Speed_lag_10,Average Water Speed,lag,10,Causal lag 10 of Average Water Speed
+Average Water Speed_lag_15,Average Water Speed,lag,15,Causal lag 15 of Average Water Speed
+Average Water Speed_lag_30,Average Water Speed,lag,30,Causal lag 30 of Average Water Speed
+Average Water Speed_rolling_mean_3,Average Water Speed,rolling_mean,3,Causal rolling_mean over window 3 for Average Water Speed
+Average Water Speed_rolling_std_3,Average Water Speed,rolling_std,3,Causal rolling_std over window 3 for Average Water Speed
+Average Water Speed_rolling_min_3,Average Water Speed,rolling_min,3,Causal rolling_min over window 3 for Average Water Speed
+Average Water Speed_rolling_max_3,Average Water Speed,rolling_max,3,Causal rolling_max over window 3 for Average Water Speed
+Average Water Speed_rolling_median_3,Average Water Speed,rolling_median,3,Causal rolling_median over window 3 for Average Water Speed
+Average Water Speed_rolling_mean_5,Average Water Speed,rolling_mean,5,Causal rolling_mean over window 5 for Average Water Speed
+Average Water Speed_rolling_std_5,Average Water Speed,rolling_std,5,Causal rolling_std over window 5 for Average Water Speed
+Average Water Speed_rolling_min_5,Average Water Speed,rolling_min,5,Causal rolling_min over window 5 for Average Water Speed
+Average Water Speed_rolling_max_5,Average Water Speed,rolling_max,5,Causal rolling_max over window 5 for Average Water Speed
+Average Water Speed_rolling_median_5,Average Water Speed,rolling_median,5,Causal rolling_median over window 5 for Average Water Speed
+Average Water Speed_rolling_mean_10,Average Water Speed,rolling_mean,10,Causal rolling_mean over window 10 for Average Water Speed
+Average Water Speed_rolling_std_10,Average Water Speed,rolling_std,10,Causal rolling_std over window 10 for Average Water Speed
+Average Water Speed_rolling_min_10,Average Water Speed,rolling_min,10,Causal rolling_min over window 10 for Average Water Speed
+Average Water Speed_rolling_max_10,Average Water Speed,rolling_max,10,Causal rolling_max over window 10 for Average Water Speed
+Average Water Speed_rolling_median_10,Average Water Speed,rolling_median,10,Causal rolling_median over window 10 for Average Water Speed
+Average Water Speed_rolling_mean_15,Average Water Speed,rolling_mean,15,Causal rolling_mean over window 15 for Average Water Speed
+Average Water Speed_rolling_std_15,Average Water Speed,rolling_std,15,Causal rolling_std over window 15 for Average Water Speed
+Average Water Speed_rolling_min_15,Average Water Speed,rolling_min,15,Causal rolling_min over window 15 for Average Water Speed
+Average Water Speed_rolling_max_15,Average Water Speed,rolling_max,15,Causal rolling_max over window 15 for Average Water Speed
+Average Water Speed_rolling_median_15,Average Water Speed,rolling_median,15,Causal rolling_median over window 15 for Average Water Speed
+Average Water Speed_rolling_mean_30,Average Water Speed,rolling_mean,30,Causal rolling_mean over window 30 for Average Water Speed
+Average Water Speed_rolling_std_30,Average Water Speed,rolling_std,30,Causal rolling_std over window 30 for Average Water Speed
+Average Water Speed_rolling_min_30,Average Water Speed,rolling_min,30,Causal rolling_min over window 30 for Average Water Speed
+Average Water Speed_rolling_max_30,Average Water Speed,rolling_max,30,Causal rolling_max over window 30 for Average Water Speed
+Average Water Speed_rolling_median_30,Average Water Speed,rolling_median,30,Causal rolling_median over window 30 for Average Water Speed
+Average Water Speed_first_difference,Average Water Speed,first_difference,1,First difference of Average Water Speed
+Average Water Speed_pct_change,Average Water Speed,percentage_change,1,Percentage change of Average Water Speed
+Average Water Direction_lag_1,Average Water Direction,lag,1,Causal lag 1 of Average Water Direction
+Average Water Direction_lag_2,Average Water Direction,lag,2,Causal lag 2 of Average Water Direction
+Average Water Direction_lag_3,Average Water Direction,lag,3,Causal lag 3 of Average Water Direction
+Average Water Direction_lag_5,Average Water Direction,lag,5,Causal lag 5 of Average Water Direction
+Average Water Direction_lag_10,Average Water Direction,lag,10,Causal lag 10 of Average Water Direction
+Average Water Direction_lag_15,Average Water Direction,lag,15,Causal lag 15 of Average Water Direction
+Average Water Direction_lag_30,Average Water Direction,lag,30,Causal lag 30 of Average Water Direction
+Average Water Direction_rolling_mean_3,Average Water Direction,rolling_mean,3,Causal rolling_mean over window 3 for Average Water Direction
+Average Water Direction_rolling_std_3,Average Water Direction,rolling_std,3,Causal rolling_std over window 3 for Average Water Direction
+Average Water Direction_rolling_min_3,Average Water Direction,rolling_min,3,Causal rolling_min over window 3 for Average Water Direction
+Average Water Direction_rolling_max_3,Average Water Direction,rolling_max,3,Causal rolling_max over window 3 for Average Water Direction
+Average Water Direction_rolling_median_3,Average Water Direction,rolling_median,3,Causal rolling_median over window 3 for Average Water Direction
+Average Water Direction_rolling_mean_5,Average Water Direction,rolling_mean,5,Causal rolling_mean over window 5 for Average Water Direction
+Average Water Direction_rolling_std_5,Average Water Direction,rolling_std,5,Causal rolling_std over window 5 for Average Water Direction
+Average Water Direction_rolling_min_5,Average Water Direction,rolling_min,5,Causal rolling_min over window 5 for Average Water Direction
+Average Water Direction_rolling_max_5,Average Water Direction,rolling_max,5,Causal rolling_max over window 5 for Average Water Direction
+Average Water Direction_rolling_median_5,Average Water Direction,rolling_median,5,Causal rolling_median over window 5 for Average Water Direction
+Average Water Direction_rolling_mean_10,Average Water Direction,rolling_mean,10,Causal rolling_mean over window 10 for Average Water Direction
+Average Water Direction_rolling_std_10,Average Water Direction,rolling_std,10,Causal rolling_std over window 10 for Average Water Direction
+Average Water Direction_rolling_min_10,Average Water Direction,rolling_min,10,Causal rolling_min over window 10 for Average Water Direction
+Average Water Direction_rolling_max_10,Average Water Direction,rolling_max,10,Causal rolling_max over window 10 for Average Water Direction
+Average Water Direction_rolling_median_10,Average Water Direction,rolling_median,10,Causal rolling_median over window 10 for Average Water Direction
+Average Water Direction_rolling_mean_15,Average Water Direction,rolling_mean,15,Causal rolling_mean over window 15 for Average Water Direction
+Average Water Direction_rolling_std_15,Average Water Direction,rolling_std,15,Causal rolling_std over window 15 for Average Water Direction
+Average Water Direction_rolling_min_15,Average Water Direction,rolling_min,15,Causal rolling_min over window 15 for Average Water Direction
+Average Water Direction_rolling_max_15,Average Water Direction,rolling_max,15,Causal rolling_max over window 15 for Average Water Direction
+Average Water Direction_rolling_median_15,Average Water Direction,rolling_median,15,Causal rolling_median over window 15 for Average Water Direction
+Average Water Direction_rolling_mean_30,Average Water Direction,rolling_mean,30,Causal rolling_mean over window 30 for Average Water Direction
+Average Water Direction_rolling_std_30,Average Water Direction,rolling_std,30,Causal rolling_std over window 30 for Average Water Direction
+Average Water Direction_rolling_min_30,Average Water Direction,rolling_min,30,Causal rolling_min over window 30 for Average Water Direction
+Average Water Direction_rolling_max_30,Average Water Direction,rolling_max,30,Causal rolling_max over window 30 for Average Water Direction
+Average Water Direction_rolling_median_30,Average Water Direction,rolling_median,30,Causal rolling_median over window 30 for Average Water Direction
+Average Water Direction_first_difference,Average Water Direction,first_difference,1,First difference of Average Water Direction
+Average Water Direction_pct_change,Average Water Direction,percentage_change,1,Percentage change of Average Water Direction
+Chlorophyll_lag_1,Chlorophyll,lag,1,Causal lag 1 of Chlorophyll
+Chlorophyll_lag_2,Chlorophyll,lag,2,Causal lag 2 of Chlorophyll
+Chlorophyll_lag_3,Chlorophyll,lag,3,Causal lag 3 of Chlorophyll
+Chlorophyll_lag_5,Chlorophyll,lag,5,Causal lag 5 of Chlorophyll
+Chlorophyll_lag_10,Chlorophyll,lag,10,Causal lag 10 of Chlorophyll
+Chlorophyll_lag_15,Chlorophyll,lag,15,Causal lag 15 of Chlorophyll
+Chlorophyll_lag_30,Chlorophyll,lag,30,Causal lag 30 of Chlorophyll
+Chlorophyll_rolling_mean_3,Chlorophyll,rolling_mean,3,Causal rolling_mean over window 3 for Chlorophyll
+Chlorophyll_rolling_std_3,Chlorophyll,rolling_std,3,Causal rolling_std over window 3 for Chlorophyll
+Chlorophyll_rolling_min_3,Chlorophyll,rolling_min,3,Causal rolling_min over window 3 for Chlorophyll
+Chlorophyll_rolling_max_3,Chlorophyll,rolling_max,3,Causal rolling_max over window 3 for Chlorophyll
+Chlorophyll_rolling_median_3,Chlorophyll,rolling_median,3,Causal rolling_median over window 3 for Chlorophyll
+Chlorophyll_rolling_mean_5,Chlorophyll,rolling_mean,5,Causal rolling_mean over window 5 for Chlorophyll
+Chlorophyll_rolling_std_5,Chlorophyll,rolling_std,5,Causal rolling_std over window 5 for Chlorophyll
+Chlorophyll_rolling_min_5,Chlorophyll,rolling_min,5,Causal rolling_min over window 5 for Chlorophyll
+Chlorophyll_rolling_max_5,Chlorophyll,rolling_max,5,Causal rolling_max over window 5 for Chlorophyll
+Chlorophyll_rolling_median_5,Chlorophyll,rolling_median,5,Causal rolling_median over window 5 for Chlorophyll
+Chlorophyll_rolling_mean_10,Chlorophyll,rolling_mean,10,Causal rolling_mean over window 10 for Chlorophyll
+Chlorophyll_rolling_std_10,Chlorophyll,rolling_std,10,Causal rolling_std over window 10 for Chlorophyll
+Chlorophyll_rolling_min_10,Chlorophyll,rolling_min,10,Causal rolling_min over window 10 for Chlorophyll
+Chlorophyll_rolling_max_10,Chlorophyll,rolling_max,10,Causal rolling_max over window 10 for Chlorophyll
+Chlorophyll_rolling_median_10,Chlorophyll,rolling_median,10,Causal rolling_median over window 10 for Chlorophyll
+Chlorophyll_rolling_mean_15,Chlorophyll,rolling_mean,15,Causal rolling_mean over window 15 for Chlorophyll
+Chlorophyll_rolling_std_15,Chlorophyll,rolling_std,15,Causal rolling_std over window 15 for Chlorophyll
+Chlorophyll_rolling_min_15,Chlorophyll,rolling_min,15,Causal rolling_min over window 15 for Chlorophyll
+Chlorophyll_rolling_max_15,Chlorophyll,rolling_max,15,Causal rolling_max over window 15 for Chlorophyll
+Chlorophyll_rolling_median_15,Chlorophyll,rolling_median,15,Causal rolling_median over window 15 for Chlorophyll
+Chlorophyll_rolling_mean_30,Chlorophyll,rolling_mean,30,Causal rolling_mean over window 30 for Chlorophyll
+Chlorophyll_rolling_std_30,Chlorophyll,rolling_std,30,Causal rolling_std over window 30 for Chlorophyll
+Chlorophyll_rolling_min_30,Chlorophyll,rolling_min,30,Causal rolling_min over window 30 for Chlorophyll
+Chlorophyll_rolling_max_30,Chlorophyll,rolling_max,30,Causal rolling_max over window 30 for Chlorophyll
+Chlorophyll_rolling_median_30,Chlorophyll,rolling_median,30,Causal rolling_median over window 30 for Chlorophyll
+Chlorophyll_first_difference,Chlorophyll,first_difference,1,First difference of Chlorophyll
+Chlorophyll_pct_change,Chlorophyll,percentage_change,1,Percentage change of Chlorophyll
+Temperature_lag_1,Temperature,lag,1,Causal lag 1 of Temperature
+Temperature_lag_2,Temperature,lag,2,Causal lag 2 of Temperature
+Temperature_lag_3,Temperature,lag,3,Causal lag 3 of Temperature
+Temperature_lag_5,Temperature,lag,5,Causal lag 5 of Temperature
+Temperature_lag_10,Temperature,lag,10,Causal lag 10 of Temperature
+Temperature_lag_15,Temperature,lag,15,Causal lag 15 of Temperature
+Temperature_lag_30,Temperature,lag,30,Causal lag 30 of Temperature
+Temperature_rolling_mean_3,Temperature,rolling_mean,3,Causal rolling_mean over window 3 for Temperature
+Temperature_rolling_std_3,Temperature,rolling_std,3,Causal rolling_std over window 3 for Temperature
+Temperature_rolling_min_3,Temperature,rolling_min,3,Causal rolling_min over window 3 for Temperature
+Temperature_rolling_max_3,Temperature,rolling_max,3,Causal rolling_max over window 3 for Temperature
+Temperature_rolling_median_3,Temperature,rolling_median,3,Causal rolling_median over window 3 for Temperature
+Temperature_rolling_mean_5,Temperature,rolling_mean,5,Causal rolling_mean over window 5 for Temperature
+Temperature_rolling_std_5,Temperature,rolling_std,5,Causal rolling_std over window 5 for Temperature
+Temperature_rolling_min_5,Temperature,rolling_min,5,Causal rolling_min over window 5 for Temperature
+Temperature_rolling_max_5,Temperature,rolling_max,5,Causal rolling_max over window 5 for Temperature
+Temperature_rolling_median_5,Temperature,rolling_median,5,Causal rolling_median over window 5 for Temperature
+Temperature_rolling_mean_10,Temperature,rolling_mean,10,Causal rolling_mean over window 10 for Temperature
+Temperature_rolling_std_10,Temperature,rolling_std,10,Causal rolling_std over window 10 for Temperature
+Temperature_rolling_min_10,Temperature,rolling_min,10,Causal rolling_min over window 10 for Temperature
+Temperature_rolling_max_10,Temperature,rolling_max,10,Causal rolling_max over window 10 for Temperature
+Temperature_rolling_median_10,Temperature,rolling_median,10,Causal rolling_median over window 10 for Temperature
+Temperature_rolling_mean_15,Temperature,rolling_mean,15,Causal rolling_mean over window 15 for Temperature
+Temperature_rolling_std_15,Temperature,rolling_std,15,Causal rolling_std over window 15 for Temperature
+Temperature_rolling_min_15,Temperature,rolling_min,15,Causal rolling_min over window 15 for Temperature
+Temperature_rolling_max_15,Temperature,rolling_max,15,Causal rolling_max over window 15 for Temperature
+Temperature_rolling_median_15,Temperature,rolling_median,15,Causal rolling_median over window 15 for Temperature
+Temperature_rolling_mean_30,Temperature,rolling_mean,30,Causal rolling_mean over window 30 for Temperature
+Temperature_rolling_std_30,Temperature,rolling_std,30,Causal rolling_std over window 30 for Temperature
+Temperature_rolling_min_30,Temperature,rolling_min,30,Causal rolling_min over window 30 for Temperature
+Temperature_rolling_max_30,Temperature,rolling_max,30,Causal rolling_max over window 30 for Temperature
+Temperature_rolling_median_30,Temperature,rolling_median,30,Causal rolling_median over window 30 for Temperature
+Temperature_first_difference,Temperature,first_difference,1,First difference of Temperature
+Temperature_pct_change,Temperature,percentage_change,1,Percentage change of Temperature
+DO (%Saturation)_lag_1,DO (%Saturation),lag,1,Causal lag 1 of DO (%Saturation)
+DO (%Saturation)_lag_2,DO (%Saturation),lag,2,Causal lag 2 of DO (%Saturation)
+DO (%Saturation)_lag_3,DO (%Saturation),lag,3,Causal lag 3 of DO (%Saturation)
+DO (%Saturation)_lag_5,DO (%Saturation),lag,5,Causal lag 5 of DO (%Saturation)
+DO (%Saturation)_lag_10,DO (%Saturation),lag,10,Causal lag 10 of DO (%Saturation)
+DO (%Saturation)_lag_15,DO (%Saturation),lag,15,Causal lag 15 of DO (%Saturation)
+DO (%Saturation)_lag_30,DO (%Saturation),lag,30,Causal lag 30 of DO (%Saturation)
+DO (%Saturation)_rolling_mean_3,DO (%Saturation),rolling_mean,3,Causal rolling_mean over window 3 for DO (%Saturation)
+DO (%Saturation)_rolling_std_3,DO (%Saturation),rolling_std,3,Causal rolling_std over window 3 for DO (%Saturation)
+DO (%Saturation)_rolling_min_3,DO (%Saturation),rolling_min,3,Causal rolling_min over window 3 for DO (%Saturation)
+DO (%Saturation)_rolling_max_3,DO (%Saturation),rolling_max,3,Causal rolling_max over window 3 for DO (%Saturation)
+DO (%Saturation)_rolling_median_3,DO (%Saturation),rolling_median,3,Causal rolling_median over window 3 for DO (%Saturation)
+DO (%Saturation)_rolling_mean_5,DO (%Saturation),rolling_mean,5,Causal rolling_mean over window 5 for DO (%Saturation)
+DO (%Saturation)_rolling_std_5,DO (%Saturation),rolling_std,5,Causal rolling_std over window 5 for DO (%Saturation)
+DO (%Saturation)_rolling_min_5,DO (%Saturation),rolling_min,5,Causal rolling_min over window 5 for DO (%Saturation)
+DO (%Saturation)_rolling_max_5,DO (%Saturation),rolling_max,5,Causal rolling_max over window 5 for DO (%Saturation)
+DO (%Saturation)_rolling_median_5,DO (%Saturation),rolling_median,5,Causal rolling_median over window 5 for DO (%Saturation)
+DO (%Saturation)_rolling_mean_10,DO (%Saturation),rolling_mean,10,Causal rolling_mean over window 10 for DO (%Saturation)
+DO (%Saturation)_rolling_std_10,DO (%Saturation),rolling_std,10,Causal rolling_std over window 10 for DO (%Saturation)
+DO (%Saturation)_rolling_min_10,DO (%Saturation),rolling_min,10,Causal rolling_min over window 10 for DO (%Saturation)
+DO (%Saturation)_rolling_max_10,DO (%Saturation),rolling_max,10,Causal rolling_max over window 10 for DO (%Saturation)
+DO (%Saturation)_rolling_median_10,DO (%Saturation),rolling_median,10,Causal rolling_median over window 10 for DO (%Saturation)
+DO (%Saturation)_rolling_mean_15,DO (%Saturation),rolling_mean,15,Causal rolling_mean over window 15 for DO (%Saturation)
+DO (%Saturation)_rolling_std_15,DO (%Saturation),rolling_std,15,Causal rolling_std over window 15 for DO (%Saturation)
+DO (%Saturation)_rolling_min_15,DO (%Saturation),rolling_min,15,Causal rolling_min over window 15 for DO (%Saturation)
+DO (%Saturation)_rolling_max_15,DO (%Saturation),rolling_max,15,Causal rolling_max over window 15 for DO (%Saturation)
+DO (%Saturation)_rolling_median_15,DO (%Saturation),rolling_median,15,Causal rolling_median over window 15 for DO (%Saturation)
+DO (%Saturation)_rolling_mean_30,DO (%Saturation),rolling_mean,30,Causal rolling_mean over window 30 for DO (%Saturation)
+DO (%Saturation)_rolling_std_30,DO (%Saturation),rolling_std,30,Causal rolling_std over window 30 for DO (%Saturation)
+DO (%Saturation)_rolling_min_30,DO (%Saturation),rolling_min,30,Causal rolling_min over window 30 for DO (%Saturation)
+DO (%Saturation)_rolling_max_30,DO (%Saturation),rolling_max,30,Causal rolling_max over window 30 for DO (%Saturation)
+DO (%Saturation)_rolling_median_30,DO (%Saturation),rolling_median,30,Causal rolling_median over window 30 for DO (%Saturation)
+DO (%Saturation)_first_difference,DO (%Saturation),first_difference,1,First difference of DO (%Saturation)
+DO (%Saturation)_pct_change,DO (%Saturation),percentage_change,1,Percentage change of DO (%Saturation)
+pH_lag_1,pH,lag,1,Causal lag 1 of pH
+pH_lag_2,pH,lag,2,Causal lag 2 of pH
+pH_lag_3,pH,lag,3,Causal lag 3 of pH
+pH_lag_5,pH,lag,5,Causal lag 5 of pH
+pH_lag_10,pH,lag,10,Causal lag 10 of pH
+pH_lag_15,pH,lag,15,Causal lag 15 of pH
+pH_lag_30,pH,lag,30,Causal lag 30 of pH
+pH_rolling_mean_3,pH,rolling_mean,3,Causal rolling_mean over window 3 for pH
+pH_rolling_std_3,pH,rolling_std,3,Causal rolling_std over window 3 for pH
+pH_rolling_min_3,pH,rolling_min,3,Causal rolling_min over window 3 for pH
+pH_rolling_max_3,pH,rolling_max,3,Causal rolling_max over window 3 for pH
+pH_rolling_median_3,pH,rolling_median,3,Causal rolling_median over window 3 for pH
+pH_rolling_mean_5,pH,rolling_mean,5,Causal rolling_mean over window 5 for pH
+pH_rolling_std_5,pH,rolling_std,5,Causal rolling_std over window 5 for pH
+pH_rolling_min_5,pH,rolling_min,5,Causal rolling_min over window 5 for pH
+pH_rolling_max_5,pH,rolling_max,5,Causal rolling_max over window 5 for pH
+pH_rolling_median_5,pH,rolling_median,5,Causal rolling_median over window 5 for pH
+pH_rolling_mean_10,pH,rolling_mean,10,Causal rolling_mean over window 10 for pH
+pH_rolling_std_10,pH,rolling_std,10,Causal rolling_std over window 10 for pH
+pH_rolling_min_10,pH,rolling_min,10,Causal rolling_min over window 10 for pH
+pH_rolling_max_10,pH,rolling_max,10,Causal rolling_max over window 10 for pH
+pH_rolling_median_10,pH,rolling_median,10,Causal rolling_median over window 10 for pH
+pH_rolling_mean_15,pH,rolling_mean,15,Causal rolling_mean over window 15 for pH
+pH_rolling_std_15,pH,rolling_std,15,Causal rolling_std over window 15 for pH
+pH_rolling_min_15,pH,rolling_min,15,Causal rolling_min over window 15 for pH
+pH_rolling_max_15,pH,rolling_max,15,Causal rolling_max over window 15 for pH
+pH_rolling_median_15,pH,rolling_median,15,Causal rolling_median over window 15 for pH
+pH_rolling_mean_30,pH,rolling_mean,30,Causal rolling_mean over window 30 for pH
+pH_rolling_std_30,pH,rolling_std,30,Causal rolling_std over window 30 for pH
+pH_rolling_min_30,pH,rolling_min,30,Causal rolling_min over window 30 for pH
+pH_rolling_max_30,pH,rolling_max,30,Causal rolling_max over window 30 for pH
+pH_rolling_median_30,pH,rolling_median,30,Causal rolling_median over window 30 for pH
+pH_first_difference,pH,first_difference,1,First difference of pH
+pH_pct_change,pH,percentage_change,1,Percentage change of pH
+Salinity_lag_1,Salinity,lag,1,Causal lag 1 of Salinity
+Salinity_lag_2,Salinity,lag,2,Causal lag 2 of Salinity
+Salinity_lag_3,Salinity,lag,3,Causal lag 3 of Salinity
+Salinity_lag_5,Salinity,lag,5,Causal lag 5 of Salinity
+Salinity_lag_10,Salinity,lag,10,Causal lag 10 of Salinity
+Salinity_lag_15,Salinity,lag,15,Causal lag 15 of Salinity
+Salinity_lag_30,Salinity,lag,30,Causal lag 30 of Salinity
+Salinity_rolling_mean_3,Salinity,rolling_mean,3,Causal rolling_mean over window 3 for Salinity
+Salinity_rolling_std_3,Salinity,rolling_std,3,Causal rolling_std over window 3 for Salinity
+Salinity_rolling_min_3,Salinity,rolling_min,3,Causal rolling_min over window 3 for Salinity
+Salinity_rolling_max_3,Salinity,rolling_max,3,Causal rolling_max over window 3 for Salinity
+Salinity_rolling_median_3,Salinity,rolling_median,3,Causal rolling_median over window 3 for Salinity
+Salinity_rolling_mean_5,Salinity,rolling_mean,5,Causal rolling_mean over window 5 for Salinity
+Salinity_rolling_std_5,Salinity,rolling_std,5,Causal rolling_std over window 5 for Salinity
+Salinity_rolling_min_5,Salinity,rolling_min,5,Causal rolling_min over window 5 for Salinity
+Salinity_rolling_max_5,Salinity,rolling_max,5,Causal rolling_max over window 5 for Salinity
+Salinity_rolling_median_5,Salinity,rolling_median,5,Causal rolling_median over window 5 for Salinity
+Salinity_rolling_mean_10,Salinity,rolling_mean,10,Causal rolling_mean over window 10 for Salinity
+Salinity_rolling_std_10,Salinity,rolling_std,10,Causal rolling_std over window 10 for Salinity
+Salinity_rolling_min_10,Salinity,rolling_min,10,Causal rolling_min over window 10 for Salinity
+Salinity_rolling_max_10,Salinity,rolling_max,10,Causal rolling_max over window 10 for Salinity
+Salinity_rolling_median_10,Salinity,rolling_median,10,Causal rolling_median over window 10 for Salinity
+Salinity_rolling_mean_15,Salinity,rolling_mean,15,Causal rolling_mean over window 15 for Salinity
+Salinity_rolling_std_15,Salinity,rolling_std,15,Causal rolling_std over window 15 for Salinity
+Salinity_rolling_min_15,Salinity,rolling_min,15,Causal rolling_min over window 15 for Salinity
+Salinity_rolling_max_15,Salinity,rolling_max,15,Causal rolling_max over window 15 for Salinity
+Salinity_rolling_median_15,Salinity,rolling_median,15,Causal rolling_median over window 15 for Salinity
+Salinity_rolling_mean_30,Salinity,rolling_mean,30,Causal rolling_mean over window 30 for Salinity
+Salinity_rolling_std_30,Salinity,rolling_std,30,Causal rolling_std over window 30 for Salinity
+Salinity_rolling_min_30,Salinity,rolling_min,30,Causal rolling_min over window 30 for Salinity
+Salinity_rolling_max_30,Salinity,rolling_max,30,Causal rolling_max over window 30 for Salinity
+Salinity_rolling_median_30,Salinity,rolling_median,30,Causal rolling_median over window 30 for Salinity
+Salinity_first_difference,Salinity,first_difference,1,First difference of Salinity
+Salinity_pct_change,Salinity,percentage_change,1,Percentage change of Salinity
+Specific Conductance_lag_1,Specific Conductance,lag,1,Causal lag 1 of Specific Conductance
+Specific Conductance_lag_2,Specific Conductance,lag,2,Causal lag 2 of Specific Conductance
+Specific Conductance_lag_3,Specific Conductance,lag,3,Causal lag 3 of Specific Conductance
+Specific Conductance_lag_5,Specific Conductance,lag,5,Causal lag 5 of Specific Conductance
+Specific Conductance_lag_10,Specific Conductance,lag,10,Causal lag 10 of Specific Conductance
+Specific Conductance_lag_15,Specific Conductance,lag,15,Causal lag 15 of Specific Conductance
+Specific Conductance_lag_30,Specific Conductance,lag,30,Causal lag 30 of Specific Conductance
+Specific Conductance_rolling_mean_3,Specific Conductance,rolling_mean,3,Causal rolling_mean over window 3 for Specific Conductance
+Specific Conductance_rolling_std_3,Specific Conductance,rolling_std,3,Causal rolling_std over window 3 for Specific Conductance
+Specific Conductance_rolling_min_3,Specific Conductance,rolling_min,3,Causal rolling_min over window 3 for Specific Conductance
+Specific Conductance_rolling_max_3,Specific Conductance,rolling_max,3,Causal rolling_max over window 3 for Specific Conductance
+Specific Conductance_rolling_median_3,Specific Conductance,rolling_median,3,Causal rolling_median over window 3 for Specific Conductance
+Specific Conductance_rolling_mean_5,Specific Conductance,rolling_mean,5,Causal rolling_mean over window 5 for Specific Conductance
+Specific Conductance_rolling_std_5,Specific Conductance,rolling_std,5,Causal rolling_std over window 5 for Specific Conductance
+Specific Conductance_rolling_min_5,Specific Conductance,rolling_min,5,Causal rolling_min over window 5 for Specific Conductance
+Specific Conductance_rolling_max_5,Specific Conductance,rolling_max,5,Causal rolling_max over window 5 for Specific Conductance
+Specific Conductance_rolling_median_5,Specific Conductance,rolling_median,5,Causal rolling_median over window 5 for Specific Conductance
+Specific Conductance_rolling_mean_10,Specific Conductance,rolling_mean,10,Causal rolling_mean over window 10 for Specific Conductance
+Specific Conductance_rolling_std_10,Specific Conductance,rolling_std,10,Causal rolling_std over window 10 for Specific Conductance
+Specific Conductance_rolling_min_10,Specific Conductance,rolling_min,10,Causal rolling_min over window 10 for Specific Conductance
+Specific Conductance_rolling_max_10,Specific Conductance,rolling_max,10,Causal rolling_max over window 10 for Specific Conductance
+Specific Conductance_rolling_median_10,Specific Conductance,rolling_median,10,Causal rolling_median over window 10 for Specific Conductance
+Specific Conductance_rolling_mean_15,Specific Conductance,rolling_mean,15,Causal rolling_mean over window 15 for Specific Conductance
+Specific Conductance_rolling_std_15,Specific Conductance,rolling_std,15,Causal rolling_std over window 15 for Specific Conductance
+Specific Conductance_rolling_min_15,Specific Conductance,rolling_min,15,Causal rolling_min over window 15 for Specific Conductance
+Specific Conductance_rolling_max_15,Specific Conductance,rolling_max,15,Causal rolling_max over window 15 for Specific Conductance
+Specific Conductance_rolling_median_15,Specific Conductance,rolling_median,15,Causal rolling_median over window 15 for Specific Conductance
+Specific Conductance_rolling_mean_30,Specific Conductance,rolling_mean,30,Causal rolling_mean over window 30 for Specific Conductance
+Specific Conductance_rolling_std_30,Specific Conductance,rolling_std,30,Causal rolling_std over window 30 for Specific Conductance
+Specific Conductance_rolling_min_30,Specific Conductance,rolling_min,30,Causal rolling_min over window 30 for Specific Conductance
+Specific Conductance_rolling_max_30,Specific Conductance,rolling_max,30,Causal rolling_max over window 30 for Specific Conductance
+Specific Conductance_rolling_median_30,Specific Conductance,rolling_median,30,Causal rolling_median over window 30 for Specific Conductance
+Specific Conductance_first_difference,Specific Conductance,first_difference,1,First difference of Specific Conductance
+Specific Conductance_pct_change,Specific Conductance,percentage_change,1,Percentage change of Specific Conductance
+Turbidity_lag_1,Turbidity,lag,1,Causal lag 1 of Turbidity
+Turbidity_lag_2,Turbidity,lag,2,Causal lag 2 of Turbidity
+Turbidity_lag_3,Turbidity,lag,3,Causal lag 3 of Turbidity
+Turbidity_lag_5,Turbidity,lag,5,Causal lag 5 of Turbidity
+Turbidity_lag_10,Turbidity,lag,10,Causal lag 10 of Turbidity
+Turbidity_lag_15,Turbidity,lag,15,Causal lag 15 of Turbidity
+Turbidity_lag_30,Turbidity,lag,30,Causal lag 30 of Turbidity
+Turbidity_rolling_mean_3,Turbidity,rolling_mean,3,Causal rolling_mean over window 3 for Turbidity
+Turbidity_rolling_std_3,Turbidity,rolling_std,3,Causal rolling_std over window 3 for Turbidity
+Turbidity_rolling_min_3,Turbidity,rolling_min,3,Causal rolling_min over window 3 for Turbidity
+Turbidity_rolling_max_3,Turbidity,rolling_max,3,Causal rolling_max over window 3 for Turbidity
+Turbidity_rolling_median_3,Turbidity,rolling_median,3,Causal rolling_median over window 3 for Turbidity
+Turbidity_rolling_mean_5,Turbidity,rolling_mean,5,Causal rolling_mean over window 5 for Turbidity
+Turbidity_rolling_std_5,Turbidity,rolling_std,5,Causal rolling_std over window 5 for Turbidity
+Turbidity_rolling_min_5,Turbidity,rolling_min,5,Causal rolling_min over window 5 for Turbidity
+Turbidity_rolling_max_5,Turbidity,rolling_max,5,Causal rolling_max over window 5 for Turbidity
+Turbidity_rolling_median_5,Turbidity,rolling_median,5,Causal rolling_median over window 5 for Turbidity
+Turbidity_rolling_mean_10,Turbidity,rolling_mean,10,Causal rolling_mean over window 10 for Turbidity
+Turbidity_rolling_std_10,Turbidity,rolling_std,10,Causal rolling_std over window 10 for Turbidity
+Turbidity_rolling_min_10,Turbidity,rolling_min,10,Causal rolling_min over window 10 for Turbidity
+Turbidity_rolling_max_10,Turbidity,rolling_max,10,Causal rolling_max over window 10 for Turbidity
+Turbidity_rolling_median_10,Turbidity,rolling_median,10,Causal rolling_median over window 10 for Turbidity
+Turbidity_rolling_mean_15,Turbidity,rolling_mean,15,Causal rolling_mean over window 15 for Turbidity
+Turbidity_rolling_std_15,Turbidity,rolling_std,15,Causal rolling_std over window 15 for Turbidity
+Turbidity_rolling_min_15,Turbidity,rolling_min,15,Causal rolling_min over window 15 for Turbidity
+Turbidity_rolling_max_15,Turbidity,rolling_max,15,Causal rolling_max over window 15 for Turbidity
+Turbidity_rolling_median_15,Turbidity,rolling_median,15,Causal rolling_median over window 15 for Turbidity
+Turbidity_rolling_mean_30,Turbidity,rolling_mean,30,Causal rolling_mean over window 30 for Turbidity
+Turbidity_rolling_std_30,Turbidity,rolling_std,30,Causal rolling_std over window 30 for Turbidity
+Turbidity_rolling_min_30,Turbidity,rolling_min,30,Causal rolling_min over window 30 for Turbidity
+Turbidity_rolling_max_30,Turbidity,rolling_max,30,Causal rolling_max over window 30 for Turbidity
+Turbidity_rolling_median_30,Turbidity,rolling_median,30,Causal rolling_median over window 30 for Turbidity
+Turbidity_first_difference,Turbidity,first_difference,1,First difference of Turbidity
+Turbidity_pct_change,Turbidity,percentage_change,1,Percentage change of Turbidity

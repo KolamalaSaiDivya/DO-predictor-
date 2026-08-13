@@ -1,0 +1,11 @@
+feature_name,target_correlation,selected
+DO (%Saturation),0.8757322777204092,True
+DO (%Saturation)_rolling_mean_3,0.8665206263842327,True
+DO (%Saturation)_rolling_median_3,0.8640637501655232,True
+DO (%Saturation)_lag_1,0.850018690427428,True
+DO (%Saturation)_rolling_min_3,0.847319894600796,True
+pH,0.8093164050051714,True
+Temperature_rolling_min_5,0.2908276901589959,False
+Temperature,0.2068015000289529,True
+pH_pct_change,0.08367375386158597,False
+Chlorophyll_pct_change,0.07504782113646262,True

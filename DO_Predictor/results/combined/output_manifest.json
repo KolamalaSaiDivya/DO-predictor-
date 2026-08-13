@@ -1,0 +1,149 @@
+{
+  "chapter3": {
+    "metrics": [
+      "metrics/arima_lstm_hybrid_training_history.csv",
+      "metrics/chapter3_model_comparison.csv",
+      "metrics/chapter3_model_ranking.csv",
+      "metrics/chapter3_summary.json",
+      "metrics/gru_training_history.csv",
+      "metrics/hybrid_model_summary.json",
+      "metrics/lstm_training_history.csv",
+      "metrics/model_failures.csv",
+      "metrics/transformer_training_history.csv"
+    ],
+    "predictions": [
+      "predictions/arima_lstm_hybrid_predictions.csv",
+      "predictions/arima_predictions.csv",
+      "predictions/gru_predictions.csv",
+      "predictions/hybrid_components.csv",
+      "predictions/linear_regression_predictions.csv",
+      "predictions/lstm_predictions.csv",
+      "predictions/persistence_predictions.csv",
+      "predictions/random_forest_predictions.csv",
+      "predictions/svr_predictions.csv",
+      "predictions/transformer_predictions.csv"
+    ],
+    "figures": [
+      "figures/arima_actual_vs_predicted.pdf",
+      "figures/arima_actual_vs_predicted.png",
+      "figures/arima_lstm_hybrid_actual_vs_predicted.pdf",
+      "figures/arima_lstm_hybrid_actual_vs_predicted.png",
+      "figures/arima_lstm_hybrid_loss.pdf",
+      "figures/arima_lstm_hybrid_loss.png",
+      "figures/arima_lstm_hybrid_residuals.pdf",
+      "figures/arima_lstm_hybrid_residuals.png",
+      "figures/arima_residuals.pdf",
+      "figures/arima_residuals.png",
+      "figures/comparison_mae.pdf",
+      "figures/comparison_mae.png",
+      "figures/comparison_r2.pdf",
+      "figures/comparison_r2.png",
+      "figures/comparison_rmse.pdf",
+      "figures/comparison_rmse.png",
+      "figures/gru_actual_vs_predicted.pdf",
+      "figures/gru_actual_vs_predicted.png",
+      "figures/gru_loss.pdf",
+      "figures/gru_loss.png",
+      "figures/gru_residuals.pdf",
+      "figures/gru_residuals.png",
+      "figures/linear_regression_actual_vs_predicted.pdf",
+      "figures/linear_regression_actual_vs_predicted.png",
+      "figures/linear_regression_residuals.pdf",
+      "figures/linear_regression_residuals.png",
+      "figures/lstm_actual_vs_predicted.pdf",
+      "figures/lstm_actual_vs_predicted.png",
+      "figures/lstm_loss.pdf",
+      "figures/lstm_loss.png",
+      "figures/lstm_residuals.pdf",
+      "figures/lstm_residuals.png",
+      "figures/persistence_actual_vs_predicted.pdf",
+      "figures/persistence_actual_vs_predicted.png",
+      "figures/persistence_residuals.pdf",
+      "figures/persistence_residuals.png",
+      "figures/ph_timeseries.pdf",
+      "figures/ph_timeseries.png",
+      "figures/random_forest_actual_vs_predicted.pdf",
+      "figures/random_forest_actual_vs_predicted.png",
+      "figures/random_forest_residuals.pdf",
+      "figures/random_forest_residuals.png",
+      "figures/svr_actual_vs_predicted.pdf",
+      "figures/svr_actual_vs_predicted.png",
+      "figures/svr_residuals.pdf",
+      "figures/svr_residuals.png",
+      "figures/train_val_test_split.pdf",
+      "figures/train_val_test_split.png",
+      "figures/transformer_actual_vs_predicted.pdf",
+      "figures/transformer_actual_vs_predicted.png",
+      "figures/transformer_loss.pdf",
+      "figures/transformer_loss.png",
+      "figures/transformer_residuals.pdf",
+      "figures/transformer_residuals.png"
+    ],
+    "models": [],
+    "tables": [
+      "tables/chapter3_results.xlsx"
+    ],
+    "data": [
+      "data/cleaned_dataset.csv",
+      "data/load_report.json",
+      "data/preprocessing_summary.csv"
+    ]
+  },
+  "chapter5": {
+    "metrics": [
+      "metrics/chapter5_feature_selection_model_comparison.csv",
+      "metrics/chapter5_summary.json",
+      "metrics/model_failures.csv"
+    ],
+    "predictions": [
+      "predictions/do_10min_predictions.csv",
+      "predictions/do_prediction_alerts.csv"
+    ],
+    "figures": [
+      "figures/cfs_feature_merit.pdf",
+      "figures/cfs_feature_merit.png",
+      "figures/correlation_heatmap.pdf",
+      "figures/correlation_heatmap.png",
+      "figures/do_timeseries.pdf",
+      "figures/do_timeseries.png",
+      "figures/feature_count_vs_validation_error.pdf",
+      "figures/feature_count_vs_validation_error.png",
+      "figures/final_actual_vs_predicted.pdf",
+      "figures/final_actual_vs_predicted.png",
+      "figures/ph_timeseries.pdf",
+      "figures/ph_timeseries.png",
+      "figures/rmse_all_features.pdf",
+      "figures/rmse_all_features.png",
+      "figures/rmse_cfs.pdf",
+      "figures/rmse_cfs.png",
+      "figures/rmse_rfe.pdf",
+      "figures/rmse_rfe.png",
+      "figures/rmse_rfe_cfs.pdf",
+      "figures/rmse_rfe_cfs.png",
+      "figures/test_plot.pdf",
+      "figures/test_plot.png"
+    ],
+    "models": [],
+    "tables": [
+      "tables/chapter5_results.xlsx",
+      "tables/test.xlsx"
+    ],
+    "data": [
+      "data/cleaned_dataset.csv",
+      "data/do_all_candidate_features.csv",
+      "data/do_feature_dictionary.csv",
+      "data/horizon_report.json",
+      "data/load_report.json",
+      "data/preprocessing_summary.csv"
+    ],
+    "feature_selection": [
+      "feature_selection/cfs_scores.csv",
+      "feature_selection/cfs_selected_features.csv",
+      "feature_selection/final_feature_selection_report.json",
+      "feature_selection/final_rfe_cfs_features.csv",
+      "feature_selection/rfe_rankings.csv",
+      "feature_selection/rfe_selected_features.csv",
+      "feature_selection/rfe_validation_scores.csv"
+    ]
+  }
+}
