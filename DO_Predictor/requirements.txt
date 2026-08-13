@@ -1,0 +1,45 @@
+# Core data handling
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+
+# Dataset download
+kagglehub>=0.3
+
+# Classical / statistical modeling
+scikit-learn>=1.5
+statsmodels>=0.14
+prophet>=1.1
+
+# Gradient boosting libraries
+xgboost>=2.1
+lightgbm>=4.5
+catboost>=1.2
+
+# Deep learning
+tensorflow>=2.20
+
+# API / app layer
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.8
+streamlit>=1.38
+python-multipart>=0.0.9
+
+# Visualization
+matplotlib>=3.9
+seaborn>=0.13
+plotly>=5.24
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.29
+nbformat>=5.10
+
+# Testing
+pytest>=8.3
+
+# Utilities
+joblib>=1.4
+requests>=2.32
+openpyxl>=3.1

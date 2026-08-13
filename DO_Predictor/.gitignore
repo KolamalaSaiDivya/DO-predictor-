@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+catboost_info/
+
+data/raw/*.csv
+data/processed/*.parquet
+
+trained_models/*.joblib
+trained_models/*.keras
+trained_models/*.meta.joblib
+trained_models/history.json
+
+.DS_Store
